@@ -45,7 +45,7 @@ Overview of Module 15. Deliverable 3
 ---An manufacturing lots against mean PSI compares 1500 equal to as a 95% confidence interval
 https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/New%20folder/D3.png
 ---Three t-tests that compare each manufacturing lot against mean PSI of the population as 1500, 1496 and lot 3 as 1499.
-
+https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/New%20folder/D3b.png
 ---There is a summary of the t-test results across all manufacturing lots and for each lot are with in 95% confidence. 
 
 Overview of Module 15. Deliverable 4
