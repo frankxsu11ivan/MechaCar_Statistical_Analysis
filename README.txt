@@ -37,6 +37,7 @@ https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/New%20
 	https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/New%20folder/D2b.png
 	th variance for lot one is spot on with .98 varaince. Lot 2 is with in variance with 7.47. Lot 3 tanks with a varaince of 170. 
 https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/New%20folder/D2a.png
+https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/New%20folder/D2c%20Lot.png
 Overview of Module 15. Deliverable 3
 ## T-Tests on Suspension Coils
 
