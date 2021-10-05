@@ -5,6 +5,7 @@ Module 15 is blending of Statics, Math (linear regression) and data analytics to
 the data frame was read by R and performed on all variables. the variables were checked in the upper right had square (environment).
 the script is written simular to function in python as lr best fit to minimize the reduction of sum of square error. 
 basis of the work is lr <- lm(y ~ x, data=dataset)
+https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/New%20folder/D1.png
 
 
 Specific Question:
