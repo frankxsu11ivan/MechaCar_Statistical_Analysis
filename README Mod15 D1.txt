@@ -1,5 +1,7 @@
 Overview of Module 15. Deliverable 1
-## Linear Regression to Predict MPG
+## Linear Regression to Predict MPG.
+picture of the Output is in the D1.png https://github.com/frankxsu11ivan/MechaCar_Statistical_Analysis/blob/main/R_Analysis/D1.png
+
 
 Module 15 is blending of Statics, Math (linear regression) and data analytics to predict MPG.
 the data frame was read by R and performed on all variables. the variables were checked in the upper right had square (environment).
